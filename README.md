@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20kkang3617%20&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9973F7&background=FF0F0F00&center=true&vCenter=true&width=445&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+.+.+.)](https://git.io/typing-svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkang3617%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkang3617)](https://github.com/kkang3617/github-readme-stats)
 
 [![kkang3617's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkang3617)](https://github.com/anuraghazra/github-readme-stats)
-
-# 🌱 I’m currently learning ...
 
 <!--
 **kkang3617/kkang3617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
