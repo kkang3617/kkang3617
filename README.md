@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkang3617)](https://github.com/kkang3617/github-readme-stats)
 
-[![<kkang3617>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<kkang3617>)](https://github.com/anuraghazra/github-readme-stats)
+[![kkang3617's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkang3617)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🌱 I’m currently learning ...
 
